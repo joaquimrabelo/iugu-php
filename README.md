@@ -23,7 +23,7 @@ require_once(".../iugu-php/lib/Iugu.php");
 ### Usando Composer
 
 ```
-$ composer require iugu/iugu
+$ composer require joaquimrabelo/iugu-php
 Please provide a version constraint for the iugu/iugu requirement: 1.0.6
 ```
 
