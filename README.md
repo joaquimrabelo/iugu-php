@@ -11,7 +11,7 @@
 Faça o download da biblioteca:
 
 ```
-git clone https://github.com/iugu/iugu-php
+git clone git@github.com:joaquimrabelo/iugu-php.git
 ```
 
 Inclua a biblioteca em seu arquivo PHP:
@@ -24,7 +24,7 @@ require_once(".../iugu-php/lib/Iugu.php");
 
 ```
 $ composer require joaquimrabelo/iugu-php
-Please provide a version constraint for the iugu/iugu requirement: 1.0.6
+Please provide a version constraint for the iugu/iugu requirement: 1.0.0
 ```
 
 O autoload do composer irá cuidar do resto.
